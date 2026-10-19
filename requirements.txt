@@ -1,0 +1,9 @@
+psycopg[binary,pool]>=3.2,<3.4
+pgvector>=0.3,<0.5
+pyarrow>=18,<24
+huggingface-hub>=0.28,<2
+sentence-transformers>=3.4,<6
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-dotenv>=1.0,<2
+numpy>=1.26,<3

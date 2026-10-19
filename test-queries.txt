@@ -1,0 +1,8 @@
+volcano eruption ash cloud aviation
+jazz trumpet new orleans
+Apollo 13
+animals that make their own light
+
+For each query, record mode, top titles, useful-result judgments, candidate depth,
+corpus coverage, database-only latency and API latency separately.
+The opening natural-language example has no guaranteed winner. Inspect real results.
